@@ -14,9 +14,7 @@
 * Marking extreme left and right convex points -> According to their distance, Simulating key presses in TRex Game Window with pyautogui module
 
 ## Video Example-
-
-<iframe width="500" height="300" src="https://www.youtube.com/watch?v=FgvzvBxgXb0" frameborder="0" allowfullscreen></iframe>
-
+[Hand Gesture Based Trex Game](https://www.youtube.com/watch?v=FgvzvBxgXb0)
 
 
 
